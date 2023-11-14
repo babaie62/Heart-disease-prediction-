@@ -17,14 +17,17 @@ the RF method achieved 100% accuracy along with 100% sensitivity and specificity
 that a relatively simple supervised machine learning algorithm can be used to make heart disease predictions
 with very high accuracy and excellent potential utility.
 
-Md Mamun Ali a, Bikash Kumar Paul a,b,c, Kawsar Ahmed b,c,*, Francis M. Bui d, Julian M.
-W. Quinn e, Mohammad Ali Moni e,f,**
+Md Mamun Ali a, Bikash Kumar Paul a,b,c, Kawsar Ahmed b,c,*, Francis M. Bui d, Julian M.W. Quinn e, Mohammad Ali Moni e,f,**
+
 a Department of Software Engineering (SWE), Daffodil International University (DIU), Sukrabad, Dhaka, 1207, Bangladesh
-b Group of Biophotomatiχ, Department of Information and Communication Technology, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902,
-Bangladesh
+
+b Group of Biophotomatiχ, Department of Information and Communication Technology, Mawlana Bhashani Science and Technology University, Santosh, Tangail-1902,Bangladesh
+
 c Department of Information and Communication Technology, Mawlana Bhashani Science and Technology University, Santosh, Tangail, 1902, Bangladesh
+
 d Department of Electrical and Computer Engineering, University of Saskatchewan, 57 Campus Drive, Saskatoon, SK S7N 5A9, Canada
+
 e Healthy Ageing Theme, Garvan Institute of Medical Research, Darlinghurst, NSW, 2010, Australia
-f WHO Collaborating Centre on EHealth, UNSW Digital Health, School of Public Health and Community Medicine, Faculty of Medicine, UNSW Sydney, NSW 2052,
-Australia
+
+f WHO Collaborating Centre on EHealth, UNSW Digital Health, School of Public Health and Community Medicine, Faculty of Medicine, UNSW Sydney, NSW 2052,Australia
 
